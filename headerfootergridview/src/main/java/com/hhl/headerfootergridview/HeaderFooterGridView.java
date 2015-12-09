@@ -1,4 +1,4 @@
-package com.hhl.library;
+package com.hhl.headerfootergridview;
 
 import android.content.Context;
 import android.database.DataSetObserver;

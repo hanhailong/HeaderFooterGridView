@@ -12,7 +12,7 @@
     tools:context="com.hhl.headergridview.MainActivity"
     tools:showIn="@layout/activity_main">
 
-    <com.hhl.library.HeaderGridView
+    <com.hhl.headerfootergridview.HeaderGridView
         android:id="@+id/grid_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
