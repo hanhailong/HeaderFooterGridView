@@ -1,6 +1,10 @@
 # HeaderFooterGridView
 像ListView一样给GridView添加Header和Footer，目前只添加了Header，后续完善中....
 
+# 效果图
+
+![image](screenshot/header-gridview.gif)
+
 # Installation
 
     compile 'com.hhl.headerfootergridview:headerfootergridview:0.1'
@@ -26,4 +30,5 @@
             mGridView.setAdapter(mAdapter);
     
 # TODO
-    目前只有header，下一步添加footer...
+
+   目前只有header，下一步添加footer...
